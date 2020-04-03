@@ -10,9 +10,11 @@
 ## Data Analysis
 
 We will look at:
+
 1) 
 
 ## Data Manipulation
 
 The following methods and commands were used:
+
 1) 
